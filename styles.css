@@ -1,0 +1,25 @@
+.maincontent {
+    max-width: 1024px;
+    width: 100%;
+    margin: 0 auto;
+   }
+
+.p {
+    font-style: italic;
+}
+
+
+.figure {
+text-align: center;
+    
+}
+
+.name {
+    font-weight: bold;
+}
+
+
+.ol {
+    list-style-type: circle;
+}
+

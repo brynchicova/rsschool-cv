@@ -7,7 +7,7 @@
 I want to die some day, I want to live long,
 I want what I ask for, I get what I want
 > - Lurk - The Neighbourhood
-5. Example of my code (imaginary)
+5. Example of my code (imaginaryadd)
 ```javascript
 if ( int == 1 || int == 2 || int == 12 )
                 {alert("Зима");}
